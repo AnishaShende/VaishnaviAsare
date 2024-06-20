@@ -35,8 +35,8 @@
 
 <h3> 👐 Let's Connect </h3>
 
-<p align="center">  
+<p align="center">
 &nbsp; <a href="https://www.linkedin.com/in/vaishnavi-asare-018a7623b/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:vaishnaviasare16@gmail.com" target="_blank" rel="noopener noreferrer"><img 
+&nbsp; <a href="mailto:vaishnaviasare16@gmail.com" target="_blank" rel="noopener noreferrer"><img
      src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
