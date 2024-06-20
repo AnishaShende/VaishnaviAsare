@@ -1,4 +1,4 @@
-# <3 Hi there, I'm <a href="https://github.com/AnishaShende" target="_blank">Vaishnavi Asare</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> 
+# <3 Hi there, I'm <a href="https://github.com/AnishaShende" target="_blank">Vaishnavi Asare</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=AnishaShende)
 
@@ -8,8 +8,8 @@
 - 🌌 &nbsp; Looking for contributions in Android development.
 - 🌍 &nbsp; Exploring newer technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Computer Engineering undergrad.
-- 😊 &nbsp; Love playing chess and reading novels. 
-- 😂 &nbsp; Debugging is like being the detective in a crime movie where you're also the murderer XD. 
+- 😊 &nbsp; Love playing chess and reading novels.
+- 😂 &nbsp; Debugging is like being the detective in a crime movie where you're also the murderer XD.
 
 <h3>🛠 Tech Stack</h3>
 
@@ -17,19 +17,20 @@
 - 🌐 &nbsp; HTML | CSS | Javascript
 - 🔧 &nbsp; Github | Visual Studio code
 
-<h3> 💪&nbspWant to Expertise in</h3> 
+<h3> 💪&nbspWant to Expertise in</h3>
 
-
-* ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+- ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 </br>
 
 # 📊 GitHub Stats :
+
 ![](https://github-readme-stats.vercel.app/api?username=vaishnavi111004&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vaishnavi111004&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavi111004&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-# 💡 Random Dev Quote 
+# 💡 Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <h3> 👐 Let's Connect </h3>
